@@ -1,2 +1,3 @@
 'use strict';
-// 新しく練習用ブランチを作成
+const fs = require ('fs');
+const readline = require ('readline');
